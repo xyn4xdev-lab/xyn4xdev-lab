@@ -13,9 +13,9 @@ Specializing in authentication systems, moderation tools, and interactive bot fe
 
 | Repository | Description | Technologies |
 |------------|-------------|---------------|
-| [**discord-steam-auth**](https://github.com/xyn4x/discord-steam-auth) | Authenticates Discord users with Steam and updates their nickname based on Steam data | Node.js, Discord.js, Steam Web API |
-| [**discord-blacklist-checker**](https://github.com/xyn4x/discord-blacklist-checker) | Checks users against a server-specific blacklist before allowing access or interaction | Node.js, Discord.js |
-| [**discord-minesweeper-bot**](https://github.com/xyn4x/discord-minesweeper-bot) | Interactive Minesweeper game playable directly in Discord using slash commands | Node.js, Discord.js v14 |
+| [**discord-steam-auth**](https://github.com/xyn4xdev-lab/discord-steam-auth) | Authenticates Discord users with Steam and updates their nickname based on Steam data | Node.js, Discord.js, Steam Web API |
+| [**discord-blacklist-checker**](https://github.com/xyn4xdev-lab/discord-blacklist-checker) | Checks users against a server-specific blacklist before allowing access or interaction | Node.js, Discord.js |
+| [**discord-minesweeper-bot**](https://github.com/xyn4xdev-lab/discord-minesweeper-bot) | Interactive Minesweeper game playable directly in Discord using slash commands | Node.js, Discord.js v14 |
 
 ---
 

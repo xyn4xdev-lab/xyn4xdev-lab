@@ -26,6 +26,7 @@ Specializing in authentication systems, moderation tools, and interactive bot fe
 - Steam Web API
 - REST APIs
 - SQLite / JSON-based storage
+- Python
 
 ---
 

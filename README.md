@@ -41,5 +41,5 @@ Commercial use and resale are not permitted.
 
 ## Contact
 
-- **GitHub:** [github.com/xyn4x](https://github.com/xyn4xdev-lab)
+- **GitHub:** [github.com/xyn4xdev-lab](https://github.com/xyn4xdev-lab)
 - **Discord:** `xyn4x` 

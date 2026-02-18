@@ -21,7 +21,7 @@ Specializing in authentication systems, moderation tools, and interactive bot fe
 
 ## License
 
-All public repositories are provided under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
+Most repositories are provided under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
 Commercial use and resale are not permitted.  
 [View License](https://creativecommons.org/licenses/by-nc/4.0/)
 
